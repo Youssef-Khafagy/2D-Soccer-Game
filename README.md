@@ -4,12 +4,9 @@ A two-player 2D soccer game built using **Python and Pygame**. This project was 
 
 ## 🎮 Gameplay Overview
 - Local two-player soccer match
-- Real-time player movement and ball physics
+- Real time player movement and ball physics
 - Goal detection with live score tracking
-- Countdown timer to determine game end
 - Interactive menu and instructions screen
-
-Players compete by controlling characters on a top-down soccer field and attempting to score goals within the time limit.
 
 ## 🕹️ Controls
 **Player 1**
